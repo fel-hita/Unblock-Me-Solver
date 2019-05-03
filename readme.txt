@@ -6,5 +6,5 @@ The original algorithm was first implemented by Karakanb (https://github.com/kar
 
 Note :
 The makefile uses the local lib files located inside the lib/ folder.
-You should either use the original sdl files of your framework or copy manually the needed lib files and replace them inside the lib folder.
+You should either use the original sdl files of your framework by linking them via the command line or copy manually the needed lib files and replace them inside the lib folder.
 

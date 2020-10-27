@@ -1,4 +1,4 @@
-Unblock-me solving algorithm using C++ and SDL library.
+Unblock-me solving algorithm using C,C++ and SDL library.
 
 Algorithm approach : 
 The solver uses both BFS and DFS algorithms to solve the given initial board states.
